@@ -1,14 +1,14 @@
 {
     "name": "my/composer",
-    "description": "1",
+    "description": "test",
+    "type": "project",
     "license": "MIT",
-    "require": {
-        "php": "5.3"
-    },
     "authors": [
         {
             "name": "zhengtaoyu",
             "email": "717828758@qq.com"
         }
-    ]
+    ],
+    "minimum-stability": "stable",
+    "require": {}
 }
